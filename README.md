@@ -2,7 +2,7 @@
 
 A sleek, responsive restaurant website built with **React.js**, featuring stunning dishes, interactive menus, customer reviews, and smooth navigation for an immersive dining experience.  
 
-![FoodieWeb Screenshot](./public/screenshot.png)  
+![FoodieWeb Screenshot](./public/Food_web.png)  
 *(Replace with your actual screenshot path)*  
 
 ---  
